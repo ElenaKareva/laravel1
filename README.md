@@ -54,12 +54,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 
-## Ответы к заданию № 3
-1. Список пакетов: php, guzzlehttp/guzzle, laravel/framework, laravel/sanctum, laravel/tinker, fakerphp/faker, laravel/pint, laravel/sail, mockery/mockery, nunomaduro/collision, phpunit/phpunit, spatie/laravel-ignition.
-2. В директории config находятся конфигурационные файлы приложения.  В ней содержатся файлы, необходимые для настройки базы данных, сессий, электронных писем, приложений, служб 
-3. Каталог app
-ответы продублированы в файл README.
-
 
 ## Code of Conduct
 
@@ -72,3 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Ответы к заданию № 3
+1. Список пакетов: php, guzzlehttp/guzzle, laravel/framework, laravel/sanctum, laravel/tinker, fakerphp/faker, laravel/pint, laravel/sail, mockery/mockery, nunomaduro/collision, phpunit/phpunit, spatie/laravel-ignition.
+2. В директории config находятся конфигурационные файлы приложения.  В ней содержатся файлы, необходимые для настройки базы данных, сессий, электронных писем, приложений, служб 
+3. Каталог app
